@@ -15,7 +15,7 @@ This project is based on `Association Rule Mining`. The retailer wants to find o
 
 
 ## 🚀 About Me
-I'm still a student, pursuing my B.Tech degree(3rd year, at 2023). I dreamt to be a Data Scientist or Data Analyst one day.
+I'm still a student, pursuing my B.Tech degree(3rd year, at 2023). I dream to be a `Data Scientist` or `Data Analyst` one day.
 
 
 
